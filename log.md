@@ -10,3 +10,8 @@ I beleive in the power of Compounding in all things, learning, wealth, life. So 
 Also it helps practice DOM manipulation and some other features I'm trying to incorporate.
 
 ### R1D2
+Continued work on the Compound Interest Calculator. Completed the JS, it is a wonderfully functioning web app now. Design was barebones simple. So I decided to overhaul it a bit.
+
+Challenges encountered: 
+-- Needed to use Regex to format the output of large numbers to make it more readable (Add commas every 3 digits eg: 1,000,000).
+-- 

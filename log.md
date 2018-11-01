@@ -19,6 +19,8 @@ Challenges encountered:
 Worked on Compound Interest Calculator. Added Navbar and made the wireframe for a new feauture: Path to $1 Billion. Started a tutorial on JS OOP.
 
 ### R1D4 25/10/2018
+Completed the Compound Interest project. Got a new client, spent large chunk of the day understanding scope of new client project. Did some JS OOP practice.
+
 Link to Tweet:
 https://twitter.com/arshadumrethi/status/1055535733954543616
 
@@ -32,6 +34,8 @@ Link to Tweet:
 https://twitter.com/arshadumrethi/status/1055861526354124800
 
 ### R1D6 29/10/2018
+Learned ES6 Classes, began work on a project to practice OOP.  
+Started the Object Oriented Programming section on @freeCodeCamp.
 
 Link to Tweet:
 https://twitter.com/arshadumrethi/status/1056961811491315713

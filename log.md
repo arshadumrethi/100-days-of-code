@@ -36,3 +36,8 @@ https://twitter.com/arshadumrethi/status/1055861526354124800
 Link to Tweet:
 https://twitter.com/arshadumrethi/status/1056961811491315713
 
+### R1D7 30/10/2018
+ Started building a basic listing app using OOP and a second version of the same app using ES6 classes. Finished OOP on @freeCodeCamp. 
+ 
+### R1 D8 & D9 31/10 - 01/11 2018
+Working on Asynchronous Programming, Ajax & Json, Will begin API Projects tomorrow. #100DaysOfCode

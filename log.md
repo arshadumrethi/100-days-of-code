@@ -46,7 +46,7 @@ https://twitter.com/arshadumrethi/status/1056961811491315713
 ### R1 D8 & D9 31/10 - 01/11 2018
 Working on Asynchronous Programming, Ajax & Json, Will begin API Projects tomorrow. #100DaysOfCode
 
-### R1D10 02/11/2018
-Didn't start the API projects yet. Need to spend more time on Async. Read eloquent Javascript.
+### R1D10 04/11/2018
+Planned my sprint for this week. Started working on API projects. Also continued working on JS data structures and algorithms on FCC
 
 

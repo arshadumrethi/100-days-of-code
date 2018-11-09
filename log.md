@@ -49,6 +49,8 @@ Working on Asynchronous Programming, Ajax & Json, Will begin API Projects tomorr
 ### R1D10 05/11/2018
 Planned my sprint for this week. Started working on API projects. Also continued working on JS data structures and algorithms on FCC
 
-### R1D11 06/11/2018 
-Worked on data structures on FCC
+### R1D11 09/11/2018 
+R1 D11 I missed 3 days of updating although I did work on Algorithms and Data Structures on @freeCodeCamp throughout the week and finished both sections today. 
+
+Algorithm Scripting was an especially fun challenge! Enjoyed it a lot!
 

@@ -54,3 +54,5 @@ R1 D11 I missed 3 days of updating although I did work on Algorithms and Data St
 
 Algorithm Scripting was an especially fun challenge! Enjoyed it a lot!
 
+### R1D12 12/11/2018
+Worked on async today.

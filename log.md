@@ -56,3 +56,16 @@ Algorithm Scripting was an especially fun challenge! Enjoyed it a lot!
 
 ### R1D12 12/11/2018
 Worked on async today.
+
+### R1D13 13/11/2018
+Worked on Algorithm Challenges again.
+
+### R1D14 14/11/2018
+Did some codewars katas to sharpen up the JavaScript skills. 
+
+### R1D15 15/11/2018
+Started some new projects today(Ukiyo and Personal Metrics) . Built wireframes for them. 
+
+### R1D16 22/11/2018
+Took a break but back with learning. Finished up Algos on FCC and worked on ES6. 
+Also worked on Personal Metrics, and planning next steps. 
